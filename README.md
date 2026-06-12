@@ -1,4 +1,4 @@
-# iRevolution
+# iRevolution: iPhone Impact in India
 A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
 📱 iRevolution: A Data-Driven Exploration of Apple's iPhone Impact in India
 📌 Project Overview
